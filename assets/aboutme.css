@@ -1,0 +1,76 @@
+.body{
+    margin: 0 auto;
+    width: 70%;
+    clear: both;
+    background-color: #e6e6e6;
+}
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color:rgb(82, 81, 81);
+}
+
+li {
+    float: right;
+}
+
+li a {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+}
+
+/* Change the link color to #111 (black) on hover */
+li a:hover {
+    background-color: #111;
+}
+h2{
+    float: left;
+    color:white;
+}
+.footer{
+    height: 45px;
+    margin-top: 40%;
+    background-color:#333;
+    color: white;
+    text-align: center;}
+    .img{
+        height: 80px;
+        width: 300px;
+    }
+    .port1{
+        height: 200px;
+        width: 300px;
+    }
+    .port2{
+        height:200px ;
+        width: 300px;
+
+    }
+    .port3{
+        height:200px ;
+        width: 300px;
+ 
+    }
+    .port4{
+        height:200px ;
+        width: 300px;
+
+    }
+    .port5{
+        height:200px ; 
+        width: 300px;
+    }
+    .port6{
+        height:200px ; 
+        width: 300px; 
+    }
+    
+
+
+
+
