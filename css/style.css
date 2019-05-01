@@ -302,6 +302,10 @@ header .intro-text {
 #portfolio .section-title h2 {
 	color: #fff;
 }
+#portfolio img{
+	width: 600px;
+	height: 300px
+}
 .categories {
 	padding-bottom: 30px;
 	text-align: center;
